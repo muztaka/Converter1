@@ -1,0 +1,51 @@
+#d{
+    position:absolute;
+    left:30%;
+    top:17%;
+    }
+#b{
+    position:absolute;
+    left:30%;
+    top:24%;
+    }
+#o{
+    position:absolute;
+    left:30%;
+    top:31%;
+    }
+#h{
+    position:absolute;
+    left:30%;
+    top:38%;
+    }
+#d, #b, #o, #h{
+    border-radius:10px;
+    width:150px;
+    height:32px;
+    }
+p{
+    position:absolute;
+    left:41.5%;
+    top:16%;
+    }
+p1{
+    position:absolute;
+    left:41.5%;
+    top:25%;
+    }
+p2{
+    position:absolute;
+    left:41.5%;
+    top:32%;
+    }
+p3{
+    position:absolute;
+    left:41.5%;
+    top:39%;
+    }
+#button{
+    position:absolute;
+    width:70px;
+    left:45%;
+    top:40%;
+    }
